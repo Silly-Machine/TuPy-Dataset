@@ -1,6 +1,6 @@
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
-[![GitHub issues](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)](https://img.shields.io/github/issues/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset.svg)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset/main)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Silly-Machine/TuPy-Dataset)
+[![GitHub issues](https://img.shields.io/github/issues/Silly-Machine/TuPy-Dataset.svg)](https://img.shields.io/github/issues/Silly-Machine/TuPy-Dataset.svg)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Silly-Machine/TuPy-Dataset/main)
 [![GitHub license](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/license/mit/)
 
 # Portuguese Hate Speech Dataset (TuPy)
